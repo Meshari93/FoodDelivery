@@ -9,6 +9,7 @@ import { Home, Restaurant, OrderDelivery } from "./screens";
 const Stack = createStackNavigator();
 
 const App = () => {
+  
   return (
 
     <NavigationContainer>
